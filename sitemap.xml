@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on July 9, 2023 at 1:00 am by All in One SEO v4.4.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://pbastakoti.com.np/default.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[https://pbastakoti.com.np/page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-11-08T03:21:42+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://pbastakoti.com.np/product-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2019-06-07T09:02:21+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://pbastakoti.com.np/cartflows_flow-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-11-01T16:40:04+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://pbastakoti.com.np/cartflows_step-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2022-11-01T16:40:28+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[https://pbastakoti.com.np/product_cat-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2019-06-07T09:02:21+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
